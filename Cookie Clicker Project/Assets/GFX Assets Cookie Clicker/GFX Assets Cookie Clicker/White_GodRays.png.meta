@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: c876505e7fc9fdd41acda68f2edfbc49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8909683455348847873
+    second: White_GodRays_0
+  - first:
+      213: -7351973414485193930
+    second: White_GodRays_1
+  - first:
+      213: -2554471035006063527
+    second: White_GodRays_2
+  - first:
+      213: -5285764906803204166
+    second: White_GodRays_3
+  - first:
+      213: 87060672069378006
+    second: White_GodRays_4
+  - first:
+      213: 8427650976796257455
+    second: White_GodRays_5
+  - first:
+      213: -8063671836795514471
+    second: White_GodRays_6
+  - first:
+      213: 485578348107844033
+    second: White_GodRays_7
+  - first:
+      213: -4714667758644227119
+    second: White_GodRays_8
+  - first:
+      213: 4461128248919292524
+    second: White_GodRays_9
+  - first:
+      213: -986608766699211538
+    second: White_GodRays_10
+  - first:
+      213: 3368119083374538418
+    second: White_GodRays_11
+  - first:
+      213: -3272841229324486501
+    second: White_GodRays_12
+  - first:
+      213: -4262779956360985010
+    second: White_GodRays_13
+  - first:
+      213: -322307179272717637
+    second: White_GodRays_14
+  - first:
+      213: -5412762516327386423
+    second: White_GodRays_15
+  - first:
+      213: -4476882672050518012
+    second: White_GodRays_16
+  - first:
+      213: 1634351040959618285
+    second: White_GodRays_17
+  - first:
+      213: 654173364977788820
+    second: White_GodRays_18
+  - first:
+      213: 7342509925955553696
+    second: White_GodRays_19
+  - first:
+      213: 8485501177440084065
+    second: White_GodRays_20
+  - first:
+      213: -4044862633091374968
+    second: White_GodRays_21
+  - first:
+      213: -7970602255289470972
+    second: White_GodRays_22
+  - first:
+      213: -619887631308068801
+    second: White_GodRays_23
+  - first:
+      213: 3138501596012791233
+    second: White_GodRays_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White_GodRays_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 149
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffac1c65a127a5480800000000000000
+      internalID: -8909683455348847873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 218
+        width: 141
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b8e77c12b88f990800000000000000
+      internalID: -7351973414485193930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 230
+        width: 127
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c6079b022bc8cd0800000000000000
+      internalID: -2554471035006063527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 240
+        width: 102
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfe4cb82d035a6b0800000000000000
+      internalID: -5285764906803204166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 248
+        width: 72
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df1a90583d453100800000000000000
+      internalID: 87060672069378006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 250
+        width: 38
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac2aea69e705f470800000000000000
+      internalID: 8427650976796257455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 251
+        width: 37
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9915b760035181090800000000000000
+      internalID: -8063671836795514471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 246
+        width: 73
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9c6955fee1db600800000000000000
+      internalID: 485578348107844033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 239
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3160427a2229eb0800000000000000
+      internalID: -4714667758644227119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 229
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a7b4e918c19ed30800000000000000
+      internalID: 4461128248919292524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 217
+        width: 143
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee47b90dd8cde42f0800000000000000
+      internalID: -986608766699211538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 205
+        width: 151
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bee0c51676fdbe20800000000000000
+      internalID: 3368119083374538418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 149
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b987cdffd388492d0800000000000000
+      internalID: -3272841229324486501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 125
+        width: 147
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46c271073097d4c0800000000000000
+      internalID: -4262779956360985010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 80
+        width: 135
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba34eef35fe68bf0800000000000000
+      internalID: -322307179272717637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 81
+        width: 136
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2b1c06b2102e4b0800000000000000
+      internalID: -5412762516327386423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 124
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408c357edeaeed1c0800000000000000
+      internalID: -4476882672050518012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 173
+        width: 149
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec10b2dc916ea610800000000000000
+      internalID: 1634351040959618285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 45
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497e501a537141900800000000000000
+      internalID: 654173364977788820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 17
+        width: 88
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a94c5810e5d5e560800000000000000
+      internalID: 7342509925955553696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 55
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160a97edc5e82c570800000000000000
+      internalID: 8485501177440084065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_21
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 27
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8806655add2cdd7c0800000000000000
+      internalID: -4044862633091374968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3
+        width: 55
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4003b879a7bb26190800000000000000
+      internalID: -7970602255289470972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 18
+        width: 88
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38693fcb77b567f0800000000000000
+      internalID: -619887631308068801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_GodRays_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 44
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5c655b2923e8b20800000000000000
+      internalID: 3138501596012791233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      White_GodRays_0: -8909683455348847873
+      White_GodRays_1: -7351973414485193930
+      White_GodRays_10: -986608766699211538
+      White_GodRays_11: 3368119083374538418
+      White_GodRays_12: -3272841229324486501
+      White_GodRays_13: -4262779956360985010
+      White_GodRays_14: -322307179272717637
+      White_GodRays_15: -5412762516327386423
+      White_GodRays_16: -4476882672050518012
+      White_GodRays_17: 1634351040959618285
+      White_GodRays_18: 654173364977788820
+      White_GodRays_19: 7342509925955553696
+      White_GodRays_2: -2554471035006063527
+      White_GodRays_20: 8485501177440084065
+      White_GodRays_21: -4044862633091374968
+      White_GodRays_22: -7970602255289470972
+      White_GodRays_23: -619887631308068801
+      White_GodRays_24: 3138501596012791233
+      White_GodRays_3: -5285764906803204166
+      White_GodRays_4: 87060672069378006
+      White_GodRays_5: 8427650976796257455
+      White_GodRays_6: -8063671836795514471
+      White_GodRays_7: 485578348107844033
+      White_GodRays_8: -4714667758644227119
+      White_GodRays_9: 4461128248919292524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
