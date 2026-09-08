@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3bd24d1e9a508844fa35730d72cecf1e
+guid: 864db738c875f0f43879ccdcb56085db
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2670164986882087280
-    second: Grandma_0
+      213: 7673276570955469986
+    second: "Sk\xE4rmbild 2026-09-08 221019_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Grandma_0
+      name: "Sk\xE4rmbild 2026-09-08 221019_0"
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1774
-        height: 887
+        width: 354
+        height: 363
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 079dace88e45e0520800000000000000
-      internalID: 2670164986882087280
+      spriteID: 2a4d023f264fc7a60800000000000000
+      internalID: 7673276570955469986
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Grandma_0: 2670164986882087280
+      "Sk\xE4rmbild 2026-09-08 221019_0": 7673276570955469986
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

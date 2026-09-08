@@ -13,6 +13,8 @@ public class GameManager : MonoBehaviour
 
     public bool hasGrandma;
     public int grandmaCost;
+    public int cookieMultiplier = 1;
+    public int upgradeCost = 10;
 
     private void Update()
     {
@@ -22,12 +24,11 @@ public class GameManager : MonoBehaviour
             {
                 timer = 0;
                 AddCookie();
-                Debug.Log("Grandma Gave you a cookie!");
             }
             timer += Time.deltaTime;
 
         }
-        
+
     }
 
 
@@ -35,14 +36,16 @@ public class GameManager : MonoBehaviour
 
     public void AddCookie()
     {
-        cookies += 1;
+        cookies += cookieMultiplier;
         cookiesText.text = cookies.ToString();
         Debug.Log("You Clicked The Cookie!");
+
+        GetComponent<AudioSource>().Play();
     }
 
     public void BuyGrandma()
     {
-        if(cookies >= grandmaCost)
+        if (cookies >= grandmaCost)
         {
 
             cookies -= grandmaCost;
@@ -50,9 +53,29 @@ public class GameManager : MonoBehaviour
             hasGrandma = true;
             grandmaCost *= 2;
             Debug.Log("You bought a grandma!");
+
+            GetComponent<AudioSource>().Play();
         }
-        
+
     }
-    
+
+    public void BuyCookieUpgrade()
+    {
+        if (cookies >= upgradeCost)
+        {
+            cookies -= upgradeCost;
+            
+            cookieMultiplier *= 2;
+            upgradeCost *= 2;
+
+            cookiesText.text = cookies.ToString();
+
+            Debug.Log("You bought 2x cookies, you now have: " + cookieMultiplier);
+
+            GetComponent<AudioSource>().Play();
+        }
+
+
+    }
 
 }
