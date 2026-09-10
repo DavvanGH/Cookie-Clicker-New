@@ -11,6 +11,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] TextMeshProUGUI winnertext;
     [SerializeField] AudioClip buysound;
     [SerializeField] AudioClip failsound;
+    [SerializeField] AudioClip luckysound;
+    [SerializeField] AudioClip unluckysound;
     [SerializeField] AudioClip winsound;
     float timer;
 
@@ -21,6 +23,8 @@ public class GameManager : MonoBehaviour
     public double cookieMultiplier = 1.5;
 
     public int upgradeCost = 10;
+
+    public int gamblingCost = 500;
 
     private void Update()
 
@@ -99,6 +103,38 @@ public class GameManager : MonoBehaviour
 
 
     }
+
+    public void BuyGambling()
+    {
+        if (cookies >= gamblingCost)
+        {
+            cookies -= gamblingCost;
+
+            int chance = Random.Range(0, 100);
+
+            if (chance < 5)
+            {
+                cookies *= 10;
+
+                GetComponent<AudioSource>().PlayOneShot(luckysound);
+
+                Debug.Log("You got the 5% chance 10x cookies");
+            }
+            else
+            {
+                GetComponent<AudioSource>().PlayOneShot(unluckysound);
+
+                Debug.Log("You didn't get lucky");
+            }
+        }
+        else
+        {
+            GetComponent<AudioSource>().PlayOneShot(failsound);
+        }
+
+        cookiesText.text = cookies.ToString();
+    }
+
 
     public void Winner()
     {
